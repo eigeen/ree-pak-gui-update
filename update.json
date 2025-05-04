@@ -3,12 +3,12 @@
         {
             "version": "0.3.0",
             "channel": "nightly",
-            "pub_time": "2025-05-03T21:29:19+08:00",
+            "pub_time": "2025-05-04T20:56:32+08:00",
             "files": [
                 {
                     "name": "ree-pak-gui_0.3.0_windows_x86_64_nightly.exe",
-                    "size": 5206528,
-                    "sha256": "f2c6da1e909ad5a8dded43656facf1b8e74fa2ab5e812fd38d9e3ecad9e26cc4",
+                    "size": 5216768,
+                    "sha256": "e04c97b150c2c45778538e6bef5e26fe81205b0d2b40c4f05cd851e8edfd84e7",
                     "urls": [
                         "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.3.0_windows_x86_64_nightly.exe"
                     ]
