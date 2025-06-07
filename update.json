@@ -2,8 +2,9 @@
     "versions": [
         {
             "version": "0.3.1",
-            "channel": "nightly",
+            "channel": "release",
             "pub_time": "2025-05-26T22:47:00+08:00",
+            "description": "Fixed some bugs.",
             "files": [
                 {
                     "name": "ree-pak-gui_0.3.0_windows_x86_64_nightly_4633a5c.exe",
