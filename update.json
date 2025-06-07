@@ -1,16 +1,16 @@
 {
     "versions": [
         {
-            "version": "0.3.0",
+            "version": "0.3.1",
             "channel": "nightly",
-            "pub_time": "2035-05-04T21:06:02+08:00",
+            "pub_time": "2025-05-26T22:47:00+08:00",
             "files": [
                 {
-                    "name": "ree-pak-gui_0.3.0_windows_x86_64_nightly_7bebf84.exe",
-                    "size": 5216768,
-                    "sha256": "bc4b7dd62e77e9ffc5ff797b9d80c6cf61697016cac5562dfe5a63a43649c763",
+                    "name": "ree-pak-gui_0.3.0_windows_x86_64_nightly_4633a5c.exe",
+                    "size": 12467200,
+                    "sha256": "c32b5709b76ee8948a576050d8bd675f5d796057ba2e8997aaae6ee1c10f7e28",
                     "urls": [
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.3.0_windows_x86_64_nightly_7bebf84.exe"
+                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.3.0_windows_x86_64_nightly_4633a5c.exe"
                     ]
                 }
             ]
