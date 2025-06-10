@@ -1,13 +1,16 @@
 {
-  "base_urls": [],
+  "base_urls": [
+    "https://raw.githubusercontent.com/eigeen/ree-pak-gui-update/refs/heads/main/filelist",
+    "https://os1.eigeen.com/ree-pak-gui/filelist"
+  ],
   "files": [
     {
       "file_name": "MHWs_STM_Release.list.zip",
       "tags": [],
-      "update_time": "2025-06-08T22:47:00+08:00",
-      "description": "im description",
-      "size": 12345678,
-      "sha256": ""
+      "update_time": "2025-05-28T10:00:00+08:00",
+      "description": "Game version 1.011",
+      "size": 1281823,
+      "sha256": "559421c3ea2ca90d5db1096d3f0aa564f1ef98c34adc488857b962f13331c39a"
     }
   ]
 }
