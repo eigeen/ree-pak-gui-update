@@ -7,11 +7,11 @@
             "description": "Fixed some bugs.",
             "files": [
                 {
-                    "name": "ree-pak-gui_0.3.0_windows_x86_64_nightly_4633a5c.zip",
+                    "name": "ree-pak-gui_0.3.0_windows_x86_64_nightly_4633a5c.exe.zip",
                     "size": 12467200,
                     "sha256": "1696259670d8d83152252a5d71f400175519bee3b35d451b412a2e9e4866a383",
                     "urls": [
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.3.0_windows_x86_64_nightly_4633a5c.zip"
+                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.3.0_windows_x86_64_nightly_4633a5c.exe.zip"
                     ]
                 }
             ]
