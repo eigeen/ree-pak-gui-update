@@ -1,5 +1,6 @@
 {
   "base_urls": [
+    "https://raw.githubusercontent.com/eigeen/ree-pak-gui-update/refs/heads/main/filelist",
     "https://os1.eigeen.com/ree-pak-gui/filelist"
   ],
   "files": [
