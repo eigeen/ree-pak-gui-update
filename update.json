@@ -3,15 +3,15 @@
         {
             "version": "0.3.0",
             "channel": "release",
-            "pub_time": "2025-06-10T19:48:22+08:00",
+            "pub_time": "2025-06-11T10:32:17+08:00",
             "files": [
                 {
-                    "name": "ree-pak-gui_0.3.0_windows_x86_64_release_84166f4.exe.zip",
-                    "size": 12677497,
-                    "sha256": "7bf3e390ad04ab697b22beb74e7d9419bb127eb9ede21afa7a2d0d475eb5b7a8",
+                    "name": "ree-pak-gui_0.3.0_windows_x86_64_release_9b1a5b9.exe.zip",
+                    "size": 12677823,
+                    "sha256": "9d83aaa2358ed0083c12011ef661b89196bdb80d69f780c4b5ecafabea7e391d",
                     "urls": [
-                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.3.0/ree-pak-gui_0.3.0_windows_x86_64_release_84166f4.exe.zip",
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.3.0_windows_x86_64_release_84166f4.exe.zip"
+                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.3.0/ree-pak-gui_0.3.0_windows_x86_64_release_9b1a5b9.exe.zip",
+                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.3.0_windows_x86_64_release_9b1a5b9.exe.zip"
                     ]
                 }
             ]
