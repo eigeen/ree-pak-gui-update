@@ -1,5 +1,21 @@
 [
     {
+        "version": "0.3.2",
+        "channel": "release",
+        "pub_time": "2025-06-24T17:51:24+08:00",
+        "files": [
+            {
+                "name": "ree-pak-gui_0.3.2_windows_x86_64_release_9590166.exe.zip",
+                "size": 12698291,
+                "sha256": "dbf605f3cf09b3930990e6673694a2759abcbcb4c99947ae3c49e1050b8ec336",
+                "urls": [
+                    "https://github.com/eigeen/ree-pak-gui/releases/download/v0.3.2/ree-pak-gui_0.3.2_windows_x86_64_release_9590166.exe.zip",
+                    "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.3.2_windows_x86_64_release_9590166.exe.zip"
+                ]
+            }
+        ]
+    },
+    {
         "version": "0.3.1",
         "channel": "release",
         "pub_time": "2025-06-24T17:23:06+08:00",
