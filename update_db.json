@@ -3,6 +3,7 @@
         "version": "0.4.0",
         "channel": "release",
         "pub_time": "2025-07-11T16:58:23+08:00",
+        "description": "Packer support: Pack directory to a single .pak file.",
         "files": [
             {
                 "name": "ree-pak-gui_0.4.0_windows_x86_64_release_8e204ed.exe.zip",
