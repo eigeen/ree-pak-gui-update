@@ -26,7 +26,6 @@
                 "size": 12694811,
                 "sha256": "45d9b0d3fbc109314cc598878f640323c110098cc40bcbf4b72335d57aff5a43",
                 "urls": [
-                    "https://github.com/eigeen/ree-pak-gui/releases/download/v0.3.1/ree-pak-gui_0.3.1_windows_x86_64_release_61ce283.exe.zip",
                     "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.3.1_windows_x86_64_release_61ce283.exe.zip"
                 ]
             }
