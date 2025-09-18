@@ -1,6 +1,22 @@
 {
     "versions": [
         {
+            "version": "0.4.4",
+            "channel": "release",
+            "pub_time": "2025-09-18T19:53:51+08:00",
+            "files": [
+                {
+                    "name": "ree-pak-gui_0.4.4_windows_x86_64_release_ee39cd6.exe.zip",
+                    "size": 14271643,
+                    "sha256": "8ac7f9fb670898a78d910db25f9ae2af384bc59bfa5e9689338ce99e1ff30171",
+                    "urls": [
+                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.4/ree-pak-gui_0.4.4_windows_x86_64_release_ee39cd6.exe.zip",
+                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.4_windows_x86_64_release_ee39cd6.exe.zip"
+                    ]
+                }
+            ]
+        },
+        {
             "version": "0.4.3",
             "channel": "release",
             "pub_time": "2025-09-06T15:53:41+08:00",
