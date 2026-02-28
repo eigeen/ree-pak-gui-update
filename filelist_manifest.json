@@ -19,6 +19,14 @@
       "description": "Game version TU4 v1.041. Created by dtlnor.",
       "size": 1709053,
       "sha256": "0b7c54ee9b25d8ab31b53f73feade250f29e84a7c4b70647e568864fe0d2a5fd"
+    },
+    {
+      "file_name": "RE9_STM_Release.list.zip",
+      "tags": [],
+      "update_time": "2026-02-18T16:00:00+08:00",
+      "description": "",
+      "size": 733291,
+      "sha256": "e07a086084f67af8b2fc91b9be144b90b2b80575b4486ea47b1bf319233ca7c3"
     }
   ]
 }
