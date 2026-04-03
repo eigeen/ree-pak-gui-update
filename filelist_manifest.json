@@ -5,12 +5,12 @@
   ],
   "files": [
     {
-      "file_name": "MHS3_TR_STM_Demo.list.zip",
+      "file_name": "MHS3_STM_Release.list.zip",
       "tags": [],
-      "update_time": "2026-02-28T12:00:00+08:00",
+      "update_time": "2026-04-03T15:30:00+08:00",
       "description": "",
-      "size": 268717,
-      "sha256": "5ef68f70cde8d60d54dd46ed09eec1a9bbd6afddc69d8ddadfb2706df3fc2571"
+      "size": 667262,
+      "sha256": "e05d0a6dd193f8d4b4a5ca400404ce7bf0351bfac9ae694835990a230bc68a32"
     },
     {
       "file_name": "MHWs_STM_Release.list.zip",
