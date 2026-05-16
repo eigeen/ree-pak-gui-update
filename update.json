@@ -1,181 +1,197 @@
 {
-    "versions": [
+  "versions": [
+    {
+      "version": "0.6.0",
+      "channel": "release",
+      "pub_time": "2026-05-15T23:01:45+08:00",
+      "description": "Bridge release for upgrading legacy clients to the GitHub Releases updater.",
+      "files": [
         {
-            "version": "0.5.0",
-            "channel": "release",
-            "pub_time": "2026-04-02T16:00:00+08:00",
-            "description": "A primary update. See https://github.com/eigeen/ree-pak-gui/releases/tag/v0.5.0 for details.",
-            "files": [
-                {
-                    "name": "ree-pak-gui_0.5.0_windows_x86_64_release_2421456.exe.zip",
-                    "size": 12306396,
-                    "sha256": "b163235b39a528dfd5c1e49a843ed9d2ac859a4b7cb6e57ca8124310e79b7c03",
-                    "urls": [
-                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.5.0/ree-pak-gui_0.5.0_windows_x86_64_release_2421456.exe.zip"
-                    ]
-                }
-            ]
-        },
-        {
-            "version": "0.4.9",
-            "channel": "release",
-            "pub_time": "2026-02-28T15:45:18+08:00",
-            "files": [
-                {
-                    "name": "ree-pak-gui_0.4.9_windows_x86_64_release_3372f1e.exe.zip",
-                    "size": 14354660,
-                    "sha256": "a877a712f3947f615588a7ba682011ad76bb5799936fe091d7b7306c0c99d129",
-                    "urls": [
-                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.9/ree-pak-gui_0.4.9_windows_x86_64_release_3372f1e.exe.zip",
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.9_windows_x86_64_release_3372f1e.exe.zip"
-                    ]
-                }
-            ]
-        },
-        {
-            "version": "0.4.8",
-            "channel": "release",
-            "pub_time": "2026-02-19T13:25:01+08:00",
-            "files": [
-                {
-                    "name": "ree-pak-gui_0.4.8_windows_x86_64_release_ff9cc68.exe.zip",
-                    "size": 14346778,
-                    "sha256": "02c8bed1a4230ba2fc290e14b88b8920056e8dd377915100c15600fcfda36a43",
-                    "urls": [
-                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.8/ree-pak-gui_0.4.8_windows_x86_64_release_ff9cc68.exe.zip",
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.8_windows_x86_64_release_ff9cc68.exe.zip"
-                    ]
-                }
-            ]
-        },
-        {
-            "version": "0.4.7",
-            "channel": "release",
-            "pub_time": "2026-02-12T11:02:02+08:00",
-            "files": [
-                {
-                    "name": "ree-pak-gui_0.4.7_windows_x86_64_release_79db352.exe.zip",
-                    "size": 14339750,
-                    "sha256": "1d8b5ed3e8c97f9731a0bb7d259f1a52cab724c589e25b0e80c70758df504cad",
-                    "urls": [
-                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.7/ree-pak-gui_0.4.7_windows_x86_64_release_79db352.exe.zip",
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.7_windows_x86_64_release_79db352.exe.zip"
-                    ]
-                }
-            ]
-        },
-        {
-            "version": "0.4.6",
-            "channel": "release",
-            "pub_time": "2026-02-11T15:53:08+08:00",
-            "files": [
-                {
-                    "name": "ree-pak-gui_0.4.6_windows_x86_64_release_4806d43.exe.zip",
-                    "size": 14340144,
-                    "sha256": "b089c015386a65702760ba2632cdad0a4080283bf6cd99cb2497c2f1d170e775",
-                    "urls": [
-                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.6/ree-pak-gui_0.4.6_windows_x86_64_release_4806d43.exe.zip",
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.6_windows_x86_64_release_4806d43.exe.zip"
-                    ]
-                }
-            ]
-        },
-        {
-            "version": "0.4.4",
-            "channel": "release",
-            "pub_time": "2025-09-18T19:53:51+08:00",
-            "files": [
-                {
-                    "name": "ree-pak-gui_0.4.4_windows_x86_64_release_ee39cd6.exe.zip",
-                    "size": 14271643,
-                    "sha256": "8ac7f9fb670898a78d910db25f9ae2af384bc59bfa5e9689338ce99e1ff30171",
-                    "urls": [
-                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.4/ree-pak-gui_0.4.4_windows_x86_64_release_ee39cd6.exe.zip",
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.4_windows_x86_64_release_ee39cd6.exe.zip"
-                    ]
-                }
-            ]
-        },
-        {
-            "version": "0.4.3",
-            "channel": "release",
-            "pub_time": "2025-09-06T15:53:41+08:00",
-            "files": [
-                {
-                    "name": "ree-pak-gui_0.4.3_windows_x86_64_release_6876861.exe.zip",
-                    "size": 14274413,
-                    "sha256": "88661c664d8ebbe04ba45138af4e8ded6c564ae11365b9113e3e951faa576795",
-                    "urls": [
-                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.3/ree-pak-gui_0.4.3_windows_x86_64_release_6876861.exe.zip",
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.3_windows_x86_64_release_6876861.exe.zip"
-                    ]
-                }
-            ]
-        },
-        {
-            "version": "0.4.2",
-            "channel": "release",
-            "pub_time": "2025-08-14T09:56:06+08:00",
-            "files": [
-                {
-                    "name": "ree-pak-gui_0.4.2_windows_x86_64_release_f8fbeff.exe.zip",
-                    "size": 13888264,
-                    "sha256": "904c0067625111db5758281c31c9f04bccc5ffcbc251324b33b909208fce8818",
-                    "urls": [
-                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.2/ree-pak-gui_0.4.2_windows_x86_64_release_f8fbeff.exe.zip",
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.2_windows_x86_64_release_f8fbeff.exe.zip"
-                    ]
-                }
-            ]
-        },
-        {
-            "version": "0.4.1",
-            "channel": "release",
-            "pub_time": "2025-07-28T09:38:24+08:00",
-            "files": [
-                {
-                    "name": "ree-pak-gui_0.4.1_windows_x86_64_release_4014b58.exe.zip",
-                    "size": 13910759,
-                    "sha256": "3651c541dc1d69a3f87be5f6551e085095d2b00979421a907d9a5fec6689c722",
-                    "urls": [
-                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.1/ree-pak-gui_0.4.1_windows_x86_64_release_4014b58.exe.zip",
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.1_windows_x86_64_release_4014b58.exe.zip"
-                    ]
-                }
-            ]
-        },
-        {
-            "version": "0.4.0",
-            "channel": "release",
-            "pub_time": "2025-07-11T16:58:23+08:00",
-            "description": "Packer support: Pack directory to a single .pak file.",
-            "files": [
-                {
-                    "name": "ree-pak-gui_0.4.0_windows_x86_64_release_8e204ed.exe.zip",
-                    "size": 12738004,
-                    "sha256": "ac1cea70d20a153a5578f202cbcf986e6bc5e8895d891f4377609f4f440a0e9c",
-                    "urls": [
-                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.0/ree-pak-gui_0.4.0_windows_x86_64_release_8e204ed.exe.zip",
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.0_windows_x86_64_release_8e204ed.exe.zip"
-                    ]
-                }
-            ]
-        },
-        {
-            "version": "0.3.1",
-            "channel": "release",
-            "pub_time": "2025-06-24T18:01:38+08:00",
-            "files": [
-                {
-                    "name": "ree-pak-gui_0.3.1_windows_x86_64_release_61ce283.exe.zip",
-                    "size": 12694811,
-                    "sha256": "45d9b0d3fbc109314cc598878f640323c110098cc40bcbf4b72335d57aff5a43",
-                    "urls": [
-                        "https://github.com/eigeen/ree-pak-gui/releases/download/v0.3.1/ree-pak-gui_0.3.1_windows_x86_64_release_61ce283.exe.zip",
-                        "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.3.1_windows_x86_64_release_61ce283.exe.zip"
-                    ]
-                }
-            ]
+          "name": "ree-pak-gui_0.6.0_windows_x86_64_release_7d3033a.exe.zip",
+          "size": 13175191,
+          "sha256": "a5a54cd27162e797086c0d25965fba9d047e28a7ad4525992acd1644c1d9fd6b",
+          "urls": [
+            "https://github.com/eigeen/ree-pak-gui-update/releases/download/v0.6.0/ree-pak-gui_0.6.0_windows_x86_64_release_7d3033a.exe.zip"
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "version": "0.5.0",
+      "channel": "release",
+      "pub_time": "2026-04-02T16:00:00+08:00",
+      "description": "A primary update. See https://github.com/eigeen/ree-pak-gui/releases/tag/v0.5.0 for details.",
+      "files": [
+        {
+          "name": "ree-pak-gui_0.5.0_windows_x86_64_release_2421456.exe.zip",
+          "size": 12306396,
+          "sha256": "b163235b39a528dfd5c1e49a843ed9d2ac859a4b7cb6e57ca8124310e79b7c03",
+          "urls": [
+            "https://github.com/eigeen/ree-pak-gui/releases/download/v0.5.0/ree-pak-gui_0.5.0_windows_x86_64_release_2421456.exe.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.4.9",
+      "channel": "release",
+      "pub_time": "2026-02-28T15:45:18+08:00",
+      "files": [
+        {
+          "name": "ree-pak-gui_0.4.9_windows_x86_64_release_3372f1e.exe.zip",
+          "size": 14354660,
+          "sha256": "a877a712f3947f615588a7ba682011ad76bb5799936fe091d7b7306c0c99d129",
+          "urls": [
+            "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.9/ree-pak-gui_0.4.9_windows_x86_64_release_3372f1e.exe.zip",
+            "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.9_windows_x86_64_release_3372f1e.exe.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.4.8",
+      "channel": "release",
+      "pub_time": "2026-02-19T13:25:01+08:00",
+      "files": [
+        {
+          "name": "ree-pak-gui_0.4.8_windows_x86_64_release_ff9cc68.exe.zip",
+          "size": 14346778,
+          "sha256": "02c8bed1a4230ba2fc290e14b88b8920056e8dd377915100c15600fcfda36a43",
+          "urls": [
+            "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.8/ree-pak-gui_0.4.8_windows_x86_64_release_ff9cc68.exe.zip",
+            "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.8_windows_x86_64_release_ff9cc68.exe.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.4.7",
+      "channel": "release",
+      "pub_time": "2026-02-12T11:02:02+08:00",
+      "files": [
+        {
+          "name": "ree-pak-gui_0.4.7_windows_x86_64_release_79db352.exe.zip",
+          "size": 14339750,
+          "sha256": "1d8b5ed3e8c97f9731a0bb7d259f1a52cab724c589e25b0e80c70758df504cad",
+          "urls": [
+            "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.7/ree-pak-gui_0.4.7_windows_x86_64_release_79db352.exe.zip",
+            "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.7_windows_x86_64_release_79db352.exe.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.4.6",
+      "channel": "release",
+      "pub_time": "2026-02-11T15:53:08+08:00",
+      "files": [
+        {
+          "name": "ree-pak-gui_0.4.6_windows_x86_64_release_4806d43.exe.zip",
+          "size": 14340144,
+          "sha256": "b089c015386a65702760ba2632cdad0a4080283bf6cd99cb2497c2f1d170e775",
+          "urls": [
+            "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.6/ree-pak-gui_0.4.6_windows_x86_64_release_4806d43.exe.zip",
+            "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.6_windows_x86_64_release_4806d43.exe.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.4.4",
+      "channel": "release",
+      "pub_time": "2025-09-18T19:53:51+08:00",
+      "files": [
+        {
+          "name": "ree-pak-gui_0.4.4_windows_x86_64_release_ee39cd6.exe.zip",
+          "size": 14271643,
+          "sha256": "8ac7f9fb670898a78d910db25f9ae2af384bc59bfa5e9689338ce99e1ff30171",
+          "urls": [
+            "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.4/ree-pak-gui_0.4.4_windows_x86_64_release_ee39cd6.exe.zip",
+            "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.4_windows_x86_64_release_ee39cd6.exe.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.4.3",
+      "channel": "release",
+      "pub_time": "2025-09-06T15:53:41+08:00",
+      "files": [
+        {
+          "name": "ree-pak-gui_0.4.3_windows_x86_64_release_6876861.exe.zip",
+          "size": 14274413,
+          "sha256": "88661c664d8ebbe04ba45138af4e8ded6c564ae11365b9113e3e951faa576795",
+          "urls": [
+            "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.3/ree-pak-gui_0.4.3_windows_x86_64_release_6876861.exe.zip",
+            "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.3_windows_x86_64_release_6876861.exe.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.4.2",
+      "channel": "release",
+      "pub_time": "2025-08-14T09:56:06+08:00",
+      "files": [
+        {
+          "name": "ree-pak-gui_0.4.2_windows_x86_64_release_f8fbeff.exe.zip",
+          "size": 13888264,
+          "sha256": "904c0067625111db5758281c31c9f04bccc5ffcbc251324b33b909208fce8818",
+          "urls": [
+            "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.2/ree-pak-gui_0.4.2_windows_x86_64_release_f8fbeff.exe.zip",
+            "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.2_windows_x86_64_release_f8fbeff.exe.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.4.1",
+      "channel": "release",
+      "pub_time": "2025-07-28T09:38:24+08:00",
+      "files": [
+        {
+          "name": "ree-pak-gui_0.4.1_windows_x86_64_release_4014b58.exe.zip",
+          "size": 13910759,
+          "sha256": "3651c541dc1d69a3f87be5f6551e085095d2b00979421a907d9a5fec6689c722",
+          "urls": [
+            "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.1/ree-pak-gui_0.4.1_windows_x86_64_release_4014b58.exe.zip",
+            "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.1_windows_x86_64_release_4014b58.exe.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.4.0",
+      "channel": "release",
+      "pub_time": "2025-07-11T16:58:23+08:00",
+      "description": "Packer support: Pack directory to a single .pak file.",
+      "files": [
+        {
+          "name": "ree-pak-gui_0.4.0_windows_x86_64_release_8e204ed.exe.zip",
+          "size": 12738004,
+          "sha256": "ac1cea70d20a153a5578f202cbcf986e6bc5e8895d891f4377609f4f440a0e9c",
+          "urls": [
+            "https://github.com/eigeen/ree-pak-gui/releases/download/v0.4.0/ree-pak-gui_0.4.0_windows_x86_64_release_8e204ed.exe.zip",
+            "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.4.0_windows_x86_64_release_8e204ed.exe.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.3.1",
+      "channel": "release",
+      "pub_time": "2025-06-24T18:01:38+08:00",
+      "files": [
+        {
+          "name": "ree-pak-gui_0.3.1_windows_x86_64_release_61ce283.exe.zip",
+          "size": 12694811,
+          "sha256": "45d9b0d3fbc109314cc598878f640323c110098cc40bcbf4b72335d57aff5a43",
+          "urls": [
+            "https://github.com/eigeen/ree-pak-gui/releases/download/v0.3.1/ree-pak-gui_0.3.1_windows_x86_64_release_61ce283.exe.zip",
+            "https://os1.eigeen.com/ree-pak-gui/ree-pak-gui_0.3.1_windows_x86_64_release_61ce283.exe.zip"
+          ]
+        }
+      ]
+    }
+  ]
 }
